@@ -9,3 +9,4 @@ class Solution(object):
             ans = ans * pow(i, MOD - 2, MOD) % MOD
         
         return ans
+       
